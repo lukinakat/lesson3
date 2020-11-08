@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; #test
 int main()
 {
     int result = 0;
