@@ -10,5 +10,5 @@ int main()
             result += i;
         }
     }
-    cin << result;
+    cout << result;
 }
